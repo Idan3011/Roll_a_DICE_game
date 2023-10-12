@@ -23,7 +23,7 @@ This guide provides an overview of building the Dice Duel website using HTML, CS
    - Include audio files (e.g., dice roll sounds) in the "sounds" directory and reference them in the JavaScript file for game audio effects.
 
 5. **Integrate Images**:
-   - Store images (e.g., dice images) in the "images" directory and reference them in the HTML file.
+   - Store images (e.g., dice images) in the "PICS" directory and reference them in the HTML file.
 
 6. **Testing and Debugging**:
    - Test the website in various browsers and devices to ensure cross-browser compatibility and responsiveness.
